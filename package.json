@@ -1,0 +1,14 @@
+{
+  "name": "hamza_r_browser",
+  "version": "1.0.0",
+  "description": "DuckDuckGo tabanlı özel arayüz tarayıcı",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "hamza_r.q",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.0.0"
+  }
+}
